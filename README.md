@@ -3,8 +3,8 @@ cjson
 
 This repository contains the edition of the open-source json-c library used by webOS.
 
-How to Build on Linux
-=====================
+How to Build on Linux or FreeBSD
+================================
 
 ## Dependencies
 
